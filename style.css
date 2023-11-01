@@ -212,6 +212,7 @@ padding-bottom: 40px;
 /* MOBILE */
 @media (min-width:320px) and (max-width:767px) {
   .header__nav {
+    /* flex-direction:column gap:20px */
     flex-wrap: wrap;
     justify-content: center;
   }
